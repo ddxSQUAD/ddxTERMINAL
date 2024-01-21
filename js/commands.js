@@ -1,5 +1,5 @@
 var ddxsquad = "https://www.playbook.com/s/hearts-n-crafts/ddxsquad";
-var twitter = "https://www.twitter.com/masterle_v2/";
+var twitter = "https://www.twitter.com/notmasterle/";
 var youtube = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
 var masterle = "https://dev.masterle.lol/about";
@@ -25,7 +25,7 @@ whoami = [
 social = [
   "<br>",
   'twitter        <a href="' + twitter + '" target="_blank">twitter/masterle_v2' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/forrestknight' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/ddxsquad' + "</a>",
   "<br>"
 ];
 
