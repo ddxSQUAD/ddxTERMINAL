@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("visitor@fkcodes.com:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("visitor@ddxclue.xyz:~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -117,7 +117,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:iam@masterle.lol">iam@masterle.lol</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
