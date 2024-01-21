@@ -1,10 +1,10 @@
-var youtube = "https://www.youtube.com/fknight/";
+var ddxsquad = "https://www.playbook.com/s/hearts-n-crafts/ddxsquad";
 var twitter = "https://www.twitter.com/forrestpknight/";
-var password = "fkcodes";
-var linkedin = "https://www.linkedin.com/in/forrestpknight/";
+var password = "yogitron";
+var masterle = "https://mast3rle.xyz/about";
+var github = "https://github.com/ddxsquad/";
 var instagram = "https://www.instagram.com/forrestpknight/";
-var github = "https://github.com/forrestknight/";
-var email = 'mailto:forrest@fkcodes.com';
+var email = 'mailto:iam@masterle.lol';
 
 whois = [
   "<br>",
