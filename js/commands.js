@@ -1,9 +1,9 @@
 var ddxsquad = "https://www.playbook.com/s/hearts-n-crafts/ddxsquad";
-var twitter = "https://www.twitter.com/forrestpknight/";
+var twitter = "https://www.twitter.com/masterle_v2/";
+var youtube = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
 var masterle = "https://mast3rle.xyz/about";
 var github = "https://github.com/ddxsquad/";
-var instagram = "https://www.instagram.com/forrestpknight/";
 var email = 'mailto:iam@masterle.lol';
 
 whois = [
@@ -24,8 +24,7 @@ whoami = [
 
 social = [
   "<br>",
-  'youtube        <a href="' + youtube + '" target="_blank">youtube/fknight' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/forrestpknight' + '</a>',
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/masterle_v2' + '</a>',
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/forrestpknight' + "</a>",
   'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/forrestknight' + "</a>",
