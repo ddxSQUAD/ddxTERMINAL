@@ -8,26 +8,17 @@ var email = 'mailto:forrest@fkcodes.com';
 
 whois = [
   "<br>",
-  "Hey, I'm Forrest!👋",
-  "I'm a software developer and content creator, who builds engaging websites like this one",
-  "and makes YouTube videos about computer science & software engineering.",
-  "After graduating with a Bachelor's in Computer Science, I worked professionally",
-  "as a software engineer building enterprise web applications for Fortune 500 companies.",
-  "While doing all of that, I documentned my coding journey on YouTube - trying to enlighten",
-  "the next generation of developers and help them navigate the crazy world that is software", "development & computer science.",
-  "Before I knew it, that online presence took on a life of its own, to the point where I knew",
-  "I needed to make the jump from software engineering to full time content creator, and it's",
-  "the best decision I ever made.",
-  "Now, I make videos about creating cool shit like this terminal website, and hosting my",
-  "podcast 'Decoded w/ Forrest Knight.' What most people don't know, and will only know",
-  "because they're reading this right now, is that I also run a creative & media agency.",
-  "We partner with clients to drive their business outcomes using modern marketing strategies.",
+  "Sop!👋",
+  "This is the ddxSQUAD aka Detective Le.... and Y0G1TR0N... oh, ya Master Le too.",
+  "So.... come here to take a gander at the ddxCLUE terminal, eh? DARE to see more?",
+  "<br>",
+  "Well, go on... continue to try out those cmds...",
   "<br>"
 ];
 
 whoami = [
   "<br>",
-  "The paradox of “Who am I?” is: we never know, but, we constantly find out.",
+  "DAT A GOOD QUESTION! WHO ARE YUS????????? WOT R U DOING IN ME TERMINAL?",
   "<br>"
 ];
 
@@ -49,14 +40,17 @@ secret = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
-  "<br>"
+  "Still curating... in other words, they are scattered all over the web.", 
+  "I may or may not even know where they are...But... for now.... you can meet...",
+  `The <a href='${masterle}' target='_blank'>master</a> ...if you dare...`,
+  "<br>",
 ];
 
 help = [
   "<br>",
-  '<span class="command">whois</span>          Who is Forrest?',
-  '<span class="command">whoami</span>         Who are you?',
+  '<span class="command">whois</span>          Who is behind all this!?',
+  '<span class="command">whoami</span>         Who are you!!???',
+  '<span class="command">squad</span>          Who tf is the ddxSQUAD?',
   '<span class="command">video</span>          View YouTube videos',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
@@ -70,18 +64,23 @@ help = [
 ];
 
 banner = [
-  '<span class="index">ForrestKnight (FK) Not A Corporation. All knights reserved.</span>',
-  "         ___   ____",
-  "       /' --;^/ ,-_\\     \\ | /       ",
-  "      / / --o\\ o-\\ \\\\   --(_)--   ",
-  "     /-/-/|o|-|\\-\\\\|\\\\   / | \\   ______                          __     __ __       _       __    __   ",
-  "      '`  ` |-|   `` '          / ____/___  _____________  _____/ /_   / //_/____  (_)___ _/ /_  / /_ ",
-  "            |-|                / /_  / __ \\/ ___/ ___/ _ \\/ ___/ __/  / ,<  / __ \\/ / __ `/ __ \\/ __/ ",
-  "            |-|O              / __/ / /_/ / /  / /  /  __(__  ) /_   / /| |/ / / / / /_/ / / / / /_  ",
-  "            |-(\\,__          /_/    \\____/_/  /_/   \\___/____/\\__/  /_/ |_/_/ /_/_/\\__, /_/ /_/\\__/ ",
-  "         ...|-|\\--,\\_....                                                         /____/    © 2022",
-  "      ,;;;;;;;;;;;;;;;;;;;;;;;;,.   ",
-  "~~,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
-  '<span class="color2">Welcome to my interactive web terminal.</span>',
-  "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+  '<span class="index">PS C:/usrs/detectivele> git init ddxTERMINAL</span>',
+  '<span class="index">🤖 Y0G1-TR0N: ddxclue initating....</span>',
+  '<span class="index">🤖 Y0G1-TR0N: bruff-bruff...where is... ball...</span>',
+  "<br>",
+  "<br>",
+  "<br>",
+  '<span class="index">🤖 Y0G1-TR0N: .......................ddxclue init complete!</span>',
+  "<br>",
+  "         █████     █████               █████████  █████       █████  █████ ██████████ ",
+  "       ░░███     ░░███               ███░░░░░███░░███       ░░███  ░░███ ░░███░░░░░█ ",
+  "     ███████   ███████  █████ █████ ███     ░░░  ░███        ░███   ░███  ░███  █ ░ ", 
+  "    ███░░███  ███░░███ ░░███ ░░███ ░███          ░███        ░███   ░███  ░██████ ",
+  "    ███ ░███ ░███ ░███  ░░░█████░  ░███          ░███        ░███   ░███  ░███░░█ ",
+  "   ░███ ░███ ░███ ░███   ███░░░███ ░░███     ███ ░███      █ ░███   ░███  ░███ ░   █ ",
+  "   ░░████████░░████████ █████ █████ ░░█████████  ███████████ ░░████████   ██████████ ",
+  "    ░░░░░░░░  ░░░░░░░░ ░░░░░ ░░░░░   ░░░░░░░░░  ░░░░░░░░░░░   ░░░░░░░░   ░░░░░░░░░░  ",
+  " 🤖 Y0G1-TR0N: System init done.",
+  '<span class="color2"> welcome to the ddxCLUE ddxTERMINAL, made by... hehe the ddxSQUAD.</span>',
+  "<span class=\"color2\">well, go on.... we all know u don't know wtf going on. just type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
