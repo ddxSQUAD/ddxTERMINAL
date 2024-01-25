@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("visitor@ddxclue.xyz:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("visitor@fkcodes.com:~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -88,9 +88,10 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "squad":
-      addLine("Get ready to meet the squad...", "color2", 80);
-      newTab(ddxsquad);
+    case "video":
+      addLine("Opening YouTube...", "color2", 80);
+      newTab(youtube);
+      break;
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
@@ -132,14 +133,6 @@ function commander(cmd) {
     case "twitter":
       addLine("Opening Twitter...", "color2", 0);
       newTab(twitter);
-      break;
-    case "linkedin":
-      addLine("Opening LinkedIn...", "color2", 0);
-      newTab(linkedin);
-      break;
-    case "instagram":
-      addLine("Opening Instagram...", "color2", 0);
-      newTab(instagram);
       break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);

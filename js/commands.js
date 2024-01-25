@@ -1,8 +1,8 @@
 var ddxsquad = "https://www.playbook.com/s/hearts-n-crafts/ddxsquad";
-var twitter = "https://www.twitter.com/notmasterle/";
-var youtube = "https://www.youtube.com/watch?v=UieeBxPVvHM";
-var password = "yogitron";
 var masterle = "https://dev.masterle.lol/about";
+var twitter = "https://www.twitter.com/notmasterle/";
+var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
+var password = "yogitron";
 var github = "https://github.com/ddxsquad/";
 var email = 'mailto:iam@masterle.lol';
 
@@ -24,7 +24,7 @@ whoami = [
 
 social = [
   "<br>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/masterle_v2' + '</a>',
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/notmasterle' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/ddxsquad' + "</a>",
   "<br>"
 ];
@@ -48,7 +48,7 @@ help = [
   '<span class="command">whois</span>          Who is behind all this!?',
   '<span class="command">whoami</span>         Who are you!!???',
   '<span class="command">squad</span>          Who tf is the ddxSQUAD?',
-  '<span class="command">video</span>          View YouTube videos',
+  '<span class="command">video</span>          View a revolutionary video',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
   '<span class="command">projects</span>       View coding projects',
