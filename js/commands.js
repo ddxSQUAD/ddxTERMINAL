@@ -1,10 +1,10 @@
-var ddxsquad = "https://www.playbook.com/s/hearts-n-crafts/ddxsquad";
-var masterle = "https://dev.masterle.lol/about";
+var ddxsquad = "https://www.playbook.com/s/master-le-inc/ddxsquad";
+var masterle = "https://dev.masterle.xyz/about";
 var twitter = "https://www.twitter.com/notmasterle/";
 var video = "https://www.youtube.com/watch?v=UieeBxPVvHM";
 var password = "yogitron";
 var github = "https://github.com/ddxsquad/";
-var email = 'mailto:iam@masterle.lol';
+var email = 'mailto:iam@masterle.xyz';
 
 whois = [
   "<br>",
