@@ -4,18 +4,18 @@ body {
     min-height: 99%;
     width: 100%;
     min-width: 550px;
-    color: #519975;
-    background: #211D1B;
+    color: #31bfaa;
+    background: #212329;
     font-family: cursor, monospace;
     overflow-x: hidden;
   }
   ::selection {
-    color: #211830;
-    background-color: #519975;
+    color: #f8f8f3;
+    background-color: #4560ad;
   }
   ::-moz-selection {
-    color: #211830;
-    background-color: #519975;
+    color: #27243e;
+    background-color: #dd0db4;
   }
   textarea {
     left: -1000px;
@@ -28,7 +28,7 @@ body {
   /* Cursor Start */
   .cursor {
     font-size: 12px;
-    color: #73ABAD;
+    color: #4ab0d7;
     background-color: #73ABAD;
     position: relative;
     opacity: 1;
@@ -50,7 +50,7 @@ body {
   #command {
     cursor: text;
     height: 50px;
-    color: #73ABAD;
+    color: #d948d9;
   }
   #liner {
     line-height: 1.3em;
@@ -60,7 +60,7 @@ body {
     opacity: 0;
   }
   #liner::before {
-    color: #519975;
+    color: #9df08e;
     content: "visitor@ddxclue.xyz:~$";
   }
   #liner.password::before {
@@ -103,11 +103,11 @@ body {
     color: #DCDCCC;
   }
   .color2 {
-    color: #B89076;
+    color: #DCDCCC;
   }
   .command {
-    color: #73ABAD;
-    text-shadow: 0 0 5px #73ABAD; 
+    color: #5bb7fb;
+    text-shadow: 0 0 8px #24e68a; 
   }
   .error {
     color: #B89076;
